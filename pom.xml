@@ -8,5 +8,12 @@
     <artifactId>wyhBaties_Test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.wyh</groupId>
+            <artifactId>wyhBatis</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
