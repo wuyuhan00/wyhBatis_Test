@@ -1,5 +1,6 @@
 <mapper namespace="user">
 
+    sql的唯一标识，namespace.id组成：statementId
     <select id="selectList" resultType="com.wyh.pojo.User">
         select * from user
     </select>
